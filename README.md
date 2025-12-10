@@ -26,7 +26,7 @@ The system is deployed as a **"Zero-Input" application**, meaning investigators 
 * **DevOps:** Docker, AWS EC2 (Ubuntu Linux)
 
 
-## 🏗️ Project Architecture
+## Project Architecture
 ```text
 ├── dashboard.py             # Streamlit Frontend (The Investigator Portal)
 ├── Dockerfile               # Container configuration for production
