@@ -1,0 +1,18 @@
+# --- Core Application ---
+fastapi
+uvicorn
+streamlit
+pydantic
+
+# --- Data Processing ---
+pandas
+numpy
+
+# --- Machine Learning ---
+scikit-learn
+joblib
+shap
+xgboost
+
+# --- Utilities ---
+requests
